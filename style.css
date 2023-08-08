@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", sans-serif;
+  margin: 0;
+}
+
+.ttt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+
+}
+
+.ttt span {
+  margin-right: 10px;
+  padding: 20px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  color: red;
+}
